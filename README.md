@@ -5,7 +5,7 @@
 
 - 🏢  I'm currently working as a full-time student at **The University of Western Australia**
 - :shipit:  I use daily: `Python`, `R`, `Jupyter`, `Git`
-- ⚙️  I use weekly: `JavaScript`, `Vue`, `Firebase`, `HTML/CSS`, `SCSS`, `C`, `CCP`
+- ⚙️  I use weekly: `JavaScript`, `Vue`, `Firebase`, `HTML/CSS`, `SCSS`, `C`, `GCP`
 - 🌍 I support and volunteer with: **Coders for Causes, UWA Motorsport, McCusker Centre for Citizenship**
 - 🌱 Learning more about and studying: **Machine Learning, Deep Learning, Statistics**
 - 📫 Reach me asap: <a href="https://twitter.com/bp_goodwin">Twitter</a> or bpgoodwin@protonmail.ch
