@@ -21,4 +21,6 @@
 - :octocat: And finaly, sharing code and working on projects here on Github!
 
 
+<!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=bpgoodwin&show_icons=true)
+-->
