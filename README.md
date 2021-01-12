@@ -1,4 +1,4 @@
-### Hi, I'm Ben 👋
+### Hi, I'm Ben
 ---
 
 #### I'm a Computer Science & Data Science Student based in Perth, Western Australia.
@@ -18,7 +18,7 @@
 - 🌐 Updating my personal website with examples of my work on <a href="https://bpgoodwin.tech">bpgoodwin.tech</a>
 - 🐦 Tweeting about Tech, Music and the occasional car on <a href="https://twitter.com/bp_goodwin/">Twitter</a>
 - :chart_with_upwards_trend: I'm new to Kaggle and excited to finaly get started with competitions <a href="https://www.kaggle.com/bpgoodwin">Kaggle</a>
-- :octocat: And finaly, sharing code and working on projects here on Github!
+- :octocat: And finally, sharing code and working on projects here on Github!
 
 
 <!--
