@@ -10,7 +10,6 @@
 - 🌱 Learning more about and studying: **Machine Learning, Deep Learning, Statistics**
 - 📫 Reach me asap: <a href="https://twitter.com/bp_goodwin">Twitter</a> or bpgoodwin@protonmail.ch
 - :checkered_flag: Interests: Machine Learning, Motorsport & Music
-- 😄 Passionate about bridging the gap between research and engineering in the ML space.
 
 #### Find me around the web 🌎:
 
