@@ -13,7 +13,6 @@
 
 #### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/bpgood/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://bpgoodwin.tech">bpgoodwin.tech</a>
 - :chart_with_upwards_trend: I'm new to Kaggle and excited to finaly get started with competitions <a href="https://www.kaggle.com/bpgoodwin">Kaggle</a>
 - :octocat: And finally, sharing code and working on projects here on Github!
