@@ -1,23 +1,15 @@
-### Hi, I'm Ben
+### I'm Ben, an Aspiring Full-Stack ML Engineer
 ---
 
-#### I'm a Computer Science & Data Science Student based in Perth, Western Australia.
-
-- 🏢  I'm currently working as a full-time student at **The University of Western Australia**
+- 🏢  I'm currently a full-time student at **The University of Western Australia**
 - :shipit:  I use daily: `Python`, `R`, `Jupyter`, `Git`
 - ⚙️  I use weekly: `JavaScript`, `Vue`, `Firebase`, `HTML/CSS`, `SCSS`, `C`, `GCP`
 - 🌍 I support and volunteer with: **Coders for Causes, UWA Motorsport, McCusker Centre for Citizenship**
-- 🌱 Learning more about and studying: **Machine Learning, Deep Learning, Statistics**
 - 📫 Reach me asap: bpgoodwin@protonmail.ch
 - :checkered_flag: Interests: Machine Learning, Motorsport & Music
 
 #### Find me around the web 🌎:
 
-- 🌐 Updating my personal website with examples of my work on <a href="https://bpgoodwin.tech">bpgoodwin.tech</a>
-- :chart_with_upwards_trend: I'm new to Kaggle and excited to finaly get started with competitions <a href="https://www.kaggle.com/bpgoodwin">Kaggle</a>
+- 🌐 Personal Website: <a href="https://bpgoodwin.tech">bpgoodwin.tech</a>
+- :chart_with_upwards_trend: I'm new to Kaggle but excited to finaly get started with competitions <a href="https://www.kaggle.com/bpgoodwin">Kaggle</a>
 - :octocat: And finally, sharing code and working on projects here on Github!
-
-
-<!--
-![My github stats](https://github-readme-stats.vercel.app/api?username=bpgoodwin&show_icons=true)
--->
