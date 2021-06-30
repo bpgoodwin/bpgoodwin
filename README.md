@@ -8,4 +8,4 @@
 - :octocat:&nbsp; And finally, sharing code and working on projects here on Github!
 
 
-📫 Reach me asap: bpgoodwin@protonmail.ch
+📫&nbsp; Reach me asap: bpgoodwin@protonmail.ch
