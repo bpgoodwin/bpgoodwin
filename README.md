@@ -1,4 +1,4 @@
-### I'm Ben, an Aspiring Full-Stack ML Engineer
+### I'm Ben, an aspiring Full-Stack ML Engineer
 ---
 
 #### Find me around the web:
